@@ -1,0 +1,21 @@
+.cartbutton{
+  float: right;
+  color:inherit;
+}
+
+#total{
+  font-size: 1.4em;
+  width: 100%;
+}
+
+#beerNum{
+  width: 3em;
+}
+
+#allLeft{
+  width: 100%;
+}
+
+.rowHead{
+  font-size: 0.8em;
+}

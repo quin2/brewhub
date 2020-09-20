@@ -1,0 +1,28 @@
+#header{
+  background-color: #f09d51;
+  width: 100%;
+  height: 6vh;
+  color: #313638;
+  line-height: 6vh;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 2px;
+}
+
+#logotype{
+  float: left;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+
+
+/*
+f06543
+e8e9eb
+e0dfd5
+313638
+f09d51
+*/

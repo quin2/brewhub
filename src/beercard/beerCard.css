@@ -1,0 +1,15 @@
+.cardTitle{
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.price{
+  color: #f06543;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-size: 1.2em;
+}
+
+.price span{
+  font-size: 0.8em;
+}

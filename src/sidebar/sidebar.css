@@ -1,0 +1,18 @@
+#sidebar{
+  border: 2px solid #f06543;
+  border-radius: 2px;
+  padding: 1em;
+  width: 100%;
+}
+
+#sidebar input{
+  margin-left: 0.5em;
+}
+
+input:first-child{
+  margin-left: 0.5em;
+}
+
+select{
+  margin-left: 0.5em;
+}
